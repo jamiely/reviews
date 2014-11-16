@@ -3,6 +3,7 @@ title: The Hobbit: The Desolation of Smaug
 ASIN: B00MG4RIXU
 spoilers: true
 rating: 7
+tags: fantasy, Lord of the Rings
 ---
 
 The adventure continues with Bilbo, Thorin, and company evading pursuing
