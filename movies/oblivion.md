@@ -1,9 +1,9 @@
 ---
 title: Oblivion
 rating: 7
-spoilers: true
 dateWatched: 2014-11-14
-tags: post-nuclear, sci-fi
+tags: post-nuclear, sci-fi, post-apocalyptic
+ASIN: B008JFUO4U
 ---
 
 Oblivion begins with a two-man crew making final preparations and
