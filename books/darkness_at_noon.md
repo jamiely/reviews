@@ -9,9 +9,9 @@ audiobook:
 
 I listened to the Recorded Books version of the audiobook.
 
-_Darkness at Noon_ is the story of the revolutionary Rubashov, arrested by his party for crimes of sedition. 
-During his arrest, interrogation, and what follows, he revisits the past and learns new lessons about the 
-fruits of his life's work and the rightness of it all.
+_Darkness at Noon_ is the story of Rubashov, an old-guard revolutionary arrested by his party for crimes of 
+sedition. During his arrest, interrogation, and what follows, he revisits the past and learns new lessons 
+about the fruits of his life's work and the rightness of it all.
 
 [For anyone else wondering what a pince-nez is, they are earpiece-less glasses.](http://en.wikipedia.org/wiki/Pince-nez)
 This had me baffled for a short while since I was listening to the audiobook. 
@@ -39,4 +39,6 @@ Stated plainly, if you want an omellette, you have to break a few eggs. While lo
 ignores the ethics of egg-breaking. A more deontological perspective, judging the rightness or wrongness of 
 breaking eggs, might result in making an omellette out of flour perhaps (ok this is really a pancake), or eating
 a muffin instead.
+
+Although there are philosophical tangents throughout the story, they are not overbearing nor longwinded. The action and dialogue is paced in such a way that I think this book would be good for a young adult.
 
