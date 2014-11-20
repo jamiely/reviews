@@ -3,10 +3,11 @@ title: Darkness at Noon
 author: Arthur Koestler
 isbn10: 0553265954
 asin: 0553265954
-audiobook: true
+audiobook: 
+  publisher: Recorded Books
 ---
 
-I listened to the ??? version of the audiobook.
+I listened to the Recorded Books version of the audiobook.
 
 _Darkness at Noon_ is the story of the revolutionary Rubashov, arrested by his party for crimes of sedition. 
 During his arrest, interrogation, and what follows, he revisits the past and learns new lessons about the 
