@@ -3,8 +3,6 @@ title: Candy Crush Soda Saga
 developer: King
 ---
 
-<a href="https://itunes.apple.com/us/app/candy-crush-soda-saga/id850417475?mt=8&uo=4&at=10lJ8m" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>
-
 Some background: I was one of those players who played through the first hundred 
 levels of the original Candy Crush. The first couple impressions I
 had about the original was that it was very polished, and that playing was
@@ -45,4 +43,5 @@ luck-factor is manageable. In particular, adding new ways to match and clear blo
 gives a sense of progress that is very gratifying. I recommend that if you were
 frustrated with the original and stopped playing, that you give this sequel a try.
 
+[Get Candy Crush Soda Saga in the App Store](https://itunes.apple.com/us/app/candy-crush-soda-saga/id850417475?mt=8&uo=4&at=10lJ8m)
 
