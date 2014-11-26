@@ -1,6 +1,7 @@
 ---
 title: Candy Crush Soda Saga
 developer: King
+reviewDate: 2014-11-25T14:11:52-05:00
 ---
 
 Some background: I was one of those players who played through the

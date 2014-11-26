@@ -3,6 +3,7 @@ title: Age of Ultron
 ASIN: 078515566X
 ISBN10: 078515566X
 ISBN13: 978-0785155669
+dateRead: 2014-11-16
 ---
 
 Ultron destroys everything, and it's up to the remaining heroes to

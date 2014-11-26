@@ -5,6 +5,7 @@ ASIN: 0142001619
 ISBN10: 0142001619
 ISBN13: 978-0142001615
 abandoned: true
+dateRead: 2014-11-16
 ---
 
 Salt is truly a world history, covering the use and production of salt

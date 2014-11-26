@@ -5,6 +5,7 @@ isbn10: 0553265954
 asin: 0553265954
 audiobook: 
   publisher: Recorded Books
+dateRead: 2014-11-20
 ---
 
 I listened to the Recorded Books version of the audiobook.

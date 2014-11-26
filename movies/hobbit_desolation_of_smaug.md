@@ -4,6 +4,7 @@ ASIN: B00MG4RIXU
 spoilers: true
 rating: 7
 tags: fantasy, Lord of the Rings
+dateWatched: 2014-11-14
 ---
 
 The adventure continues with Bilbo, Thorin, and company evading pursuing

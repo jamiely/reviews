@@ -4,6 +4,7 @@ ASIN: B004EE2ZY2
 tags: dc, comics, lois lane, lex luthor, solaris, jimmy olsen
 format: dvd
 rating: 7
+dateWatched: 2014-11-14
 ---
 
 I've only read the first volume of All-Star Superman, so this review
