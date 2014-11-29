@@ -11,7 +11,9 @@ Monkey was a great read that reminded of Don Quixote. There
 are a number of parallels. Firstly, both are old. One would probably
 consider Don Quixote old, being over a hundred years older than the
 Canterbury Tales, one of the older works in English literature and
-dating from the early 1600s. Monkey, or Journey to the West as it is
+dating from the early 1600s. Monkey, or 
+[Journey to the West](http://en.wikipedia.org/wiki/Journey_to_the_West) 
+as it is
 more commonly known, was published a few decades before. Both feature
 adventures of an itinerant traveler interacting with nobility,
 bureaucrats, and the common people. Both seem more like a set of short
