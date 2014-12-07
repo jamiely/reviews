@@ -1,5 +1,8 @@
 ---
 title: Avengers vs X-Men: It's Coming
+isbn10: 0785164979
+asin: 0785164979
+dateRead: 2014-12-04
 ---
 
 This graphic novel leads up to the events of Avengers vs X-Men proper. There are 
