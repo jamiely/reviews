@@ -1,5 +1,8 @@
 ---
 title: Avengers vs X-Men: Consquences
+isbn10: 0785166467
+asin: 0785166467
+dateRead: 2014-12-04
 ---
 
 This novel tells stories in the aftermath of the Phoenix Force Saga. Hope Summers tries 
