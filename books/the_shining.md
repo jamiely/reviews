@@ -3,6 +3,7 @@ title: The Shining
 audiobook:
   publisher: Simon & Schuster Audio
 asin: 0307743659
+dateFinished: 2014-12-11
 ---
 
 I listened to the Simon & Schuster Audio audibook.
