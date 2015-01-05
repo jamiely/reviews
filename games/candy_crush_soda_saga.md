@@ -50,3 +50,8 @@ and stopped playing, that you give this sequel a try.
 
 [Get Candy Crush Soda Saga in the App Store](https://itunes.apple.com/us/app/candy-crush-soda-saga/id850417475?mt=8&uo=4&at=10lJ8m)
 
+Edit: 2014-01-04
+
+I uninstalled the game when I got stuck at level 70. I tried the level
+at least twenty times without any inkling of progress (although once I 
+had only 1 bear remaining). 
