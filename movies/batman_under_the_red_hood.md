@@ -1,6 +1,7 @@
 ---
 title: Batman: Under the Red Hood
 dateFinished: 2015-01-07
+asin: B003ITZBVI
 ---
 
 The story begins with shots of Ra's al Ghul, the Joker beating up Robin, and Batman racing the rescue.
