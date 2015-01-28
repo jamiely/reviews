@@ -7,7 +7,7 @@ dateFinished: 2015-01-27
 
 I listened to the Penguin Audiobooks version of this book.
 
-You get a call one night from someone named Mike. Mike who? From Derry.
+You get a call one night from someone named Mike. "Mike who?" "Mike--from Derry."
 Just the name of the town tightens your heart. You remember Mike now,
 how could you have forgotten him? You loved him, he was one of your
 best friends. He says, "Do you remember our promise?" Then you look
