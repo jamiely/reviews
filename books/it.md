@@ -7,6 +7,16 @@ dateFinished: 2015-01-27
 
 I listened to the Penguin Audiobooks version of this book.
 
+You get a call one night from someone named Mike. Mike who? From Derry.
+Just the name of the town tightens your heart. You remember Mike now,
+how could you have forgotten him? You loved him, he was one of your
+best friends. He says, "Do you remember our promise?" Then you look
+at your hand as it throbs and there's a scar you didn't have before,
+across the palm of your hand. "Yes, I remember," you say, not really
+knowing what he is talking about. But as the dread suffocates you, 
+you know you must go to Derry, go back home, to again face something out 
+of your childhood and out of your nightmares.
+
 I actually haven't experienced any of Stephen King's work by physically 
 reading a book. All of it has been through audiobooks. I mention this
 first because something that struck me was the length of the work. Not
