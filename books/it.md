@@ -2,6 +2,7 @@
 title: It
 author: Stephen King
 asin: 0451169514
+dateFinished: 2015-01-27
 ---
 
 I listened to the Penguin Audiobooks version of this book.
