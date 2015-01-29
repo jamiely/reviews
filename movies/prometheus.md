@@ -1,6 +1,7 @@
 ---
 title: Prometheus
 dateWatched: 2015-01-28
+asin: B005LAIHY0
 ---
 
 The cave echoes with the stones you scatter as you climb ever deeper. You need to see it yourself, 
