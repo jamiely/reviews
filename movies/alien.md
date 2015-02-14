@@ -1,6 +1,7 @@
 ---
 title: Alien
 asin: B004RE29T0
+dateFinished: 2015-02-01
 ---
 
 I decided to watch this after watching and enjoying Prometheus. I hadn't watched it before since I was 
