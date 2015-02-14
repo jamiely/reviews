@@ -1,5 +1,7 @@
 ---
 title: Aliens
+asin: B004RE29PO
+dateWatched: 2015-02-01
 ---
 
 My thoughts about the movie are affected by watching it back-to-back with Alien. This is a very
