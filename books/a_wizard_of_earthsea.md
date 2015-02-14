@@ -2,7 +2,10 @@
 title: A Wizard of Earthsea
 dateFinished: 2015-02-12
 asin: 0547773749
+audiobook: true
 ---
+
+I listened to an audiobook recording of this book.
 
 The book follows the story of Ged, a boy from a poor village who has a talent for magic.
 Performing a great feat in the defense of his village, he attracts the notice of a great
