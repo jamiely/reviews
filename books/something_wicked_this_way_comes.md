@@ -5,6 +5,8 @@ audiobook: true
 dateFinished: 2015-02-06
 ---
 
+I listened to an audiobook recording of this book.
+
 Jim and Will are the best of friends. Jim has always been the more adventurous, more foolhardy of the two, 
 leading Will into scrapes, but when a traveling carnival comes to Green Town, they wind up in a scrape that
 they cannot resolve alone.
