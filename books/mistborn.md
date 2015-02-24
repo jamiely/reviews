@@ -1,5 +1,6 @@
 ---
 title: Mistborn: The Final Empire
+asin: 0765350386
 ---
 
 I listened to an audiobook version of the Mistborn.
