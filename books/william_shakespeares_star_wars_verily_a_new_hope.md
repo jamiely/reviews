@@ -11,3 +11,8 @@ and the Star Wars series.
 Some cool parts:
 * R2D2 has an inner monologue that reminds of me Puck in that he is a mischeivious sprite that
   manipulates the other characters.
+* There are a bunch of lines that are either taken wholesale from Shakespeare's plays or at
+  least very close. During the debrief for the Death Star run someone, I forget exactly who,
+  channels Henry VII's into the breach monologue. (This scene could've been from another play
+  as I have not read all of the histories.)
+
