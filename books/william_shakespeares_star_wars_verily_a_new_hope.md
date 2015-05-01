@@ -16,3 +16,7 @@ Some cool parts:
   channels Henry VII's into the breach monologue. (This scene could've been from another play
   as I have not read all of the histories.)
 
+What I didn't like:
+* As I mentioned above, some of the lines seem like they are taken verbatim from the plays.
+  While this is often entertaining, it doesn't always fit.
+
