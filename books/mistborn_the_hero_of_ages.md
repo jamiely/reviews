@@ -6,7 +6,7 @@ dateFinished: 2015-03-07
 How do you fight the mists? How do you fight something ageless and primordial? That's the dilemma that 
 Vin faces as we move into the third part of the series. 
 
-Sanderson has woven such an intracate world and opened several important questions such as the role of
+Sanderson has woven such an intricate world and opened several important questions such as the role of
 the koloss and kandra, the identity of the mist spirit, and the prophecy of the hero of ages. He's 
 been excellent in wrapping up plot threads in the previous books, and this book is no exception. It
 closes all of the major mysteries but leaves enough open for attentive readers in the next, mostly
