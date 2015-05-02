@@ -1,5 +1,6 @@
 ---
 title: The Hero of Ages
+dateFinished: 2015-03-07
 ---
 
 How do you fight the mists? How do you fight something ageless and primordial? That's the dilemma that 
