@@ -1,5 +1,6 @@
 ---
 title: The Gunslinger
+dateFinished: 2015-03-16
 ---
 
 _The Gunslinger_ is the first book in Stephen King's dark tower trilogy. What I
@@ -17,8 +18,3 @@ I really liked that this series mixes elements of fantasy, westerns, and the
 modern era. It's a melting pot of all the styles, genres, and settings that I
 love in King's work. In this particular novel sets a dark and foreboding tone
 that I missed in the subsequent novels.
-
-There's nothing in particular I didn't enjoy about the novel--it may be my
-favorite in the series of those I've read (the first four books as of this
-writing). 
-
